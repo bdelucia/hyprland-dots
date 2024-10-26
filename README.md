@@ -1,4 +1,4 @@
-![snapshot_2024-10-25_16-21-34](https://github.com/user-attachments/assets/7ca876b7-8937-4d0d-b0a4-2a5889e3379a)
+![image](https://github.com/user-attachments/assets/682a83e2-3aba-4ed2-8fab-17ab4373855c)
 
 Personal keybindings:
 - SUPER + S: spotify
